@@ -1,0 +1,6 @@
+{
+    "sketch": "balancing_robot\\balancing_robot.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "c": ""
+}

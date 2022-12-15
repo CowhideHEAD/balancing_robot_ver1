@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "new": "cpp"
+    },
+
+    "arduino.logLevel": "verbose",
+
+}
